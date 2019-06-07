@@ -25,6 +25,7 @@ using AKAZE_Liop_Regions = Scalar_Regions<SIOPointFeature, unsigned char, 144>;
 /// Define the AKAZE Keypoint (with a binary descriptor saved in an uchar array)
 using AKAZE_Binary_Regions = Binary_Regions<SIOPointFeature, 64>;
 
+using LFNET_Float_Regions = Scalar_Regions<SIOPointFeature, float, 256>;
 } // namespace features
 } // namespace openMVG
 
@@ -32,5 +33,6 @@ EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION_INITIALIZER_LIST(openMVG::features::SIFT_
 EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION_INITIALIZER_LIST(openMVG::features::AKAZE_Float_Regions)
 EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION_INITIALIZER_LIST(openMVG::features::AKAZE_Liop_Regions)
 EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION_INITIALIZER_LIST(openMVG::features::AKAZE_Binary_Regions)
+EIGEN_DEFINE_STL_VECTOR_SPECIALIZATION_INITIALIZER_LIST(openMVG::features::LFNET_Float_Regions)
 
 #endif // OPENMVG_FEATURES_REGIONS_FACTORY_HPP

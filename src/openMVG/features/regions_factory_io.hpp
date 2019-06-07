@@ -10,6 +10,8 @@
 #define OPENMVG_FEATURES_REGIONS_FACTORY_IO_HPP
 
 #include "openMVG/features/regions_factory.hpp"
+
+
 //--
 // Register region type for serialization
 //--
@@ -25,5 +27,6 @@ CEREAL_REGISTER_TYPE_WITH_NAME(openMVG::features::AKAZE_Liop_Regions, "AKAZE_Lio
 CEREAL_REGISTER_POLYMORPHIC_RELATION(openMVG::features::Regions, openMVG::features::AKAZE_Liop_Regions)
 CEREAL_REGISTER_TYPE_WITH_NAME(openMVG::features::AKAZE_Binary_Regions, "AKAZE_Binary_Regions");
 CEREAL_REGISTER_POLYMORPHIC_RELATION(openMVG::features::Regions, openMVG::features::AKAZE_Binary_Regions)
-
+CEREAL_REGISTER_TYPE_WITH_NAME(openMVG::features::LFNET_Float_Regions , "LFNET_Float_Regions");
+CEREAL_REGISTER_POLYMORPHIC_RELATION(openMVG::features::Regions, openMVG::features::LFNET_Float_Regions)
 #endif // OPENMVG_FEATURES_REGIONS_FACTORY_IO_HPP

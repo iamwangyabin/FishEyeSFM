@@ -249,6 +249,21 @@ if(OpenMVG_USE_OPENCV)
 endif(OpenMVG_USE_OPENCV)
 
 
+add_executable(openMVG_main_ComputeFeatures_Deep main_ComputeFeatures_DeepFeature.cpp)
+target_link_libraries(openMVG_main_ComputeFeatures_Deep
+        openMVG_system
+        openMVG_image
+        openMVG_features
+        openMVG_multiview
+        openMVG_sfm
+        ${STLPLUS_LIBRARY}
+        vlsift
+        ${OpenCV_LIBS})
+target_include_directories(openMVG_main_ComputeFeatures_Deep PRIVATE ${OpenCV_INCLUDE_DIRS})
+set_property(TARGET openMVG_main_ComputeFeatures_Deep PROPERTY FOLDER OpenMVG/software)
+set_property(TARGET openMVG_main_ComputeFeatures_Deep PROPERTY INSTALL_RPATH_USE_LINK_PATH TRUE)
+install(TARGETS openMVG_main_ComputeFeatures_Deep DESTINATION bin/)
+
 ###
 # SfM Research tools
 #

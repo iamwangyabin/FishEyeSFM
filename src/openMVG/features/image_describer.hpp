@@ -33,6 +33,11 @@ public:
   Image_describer() = default;
   virtual ~Image_describer() = default;
 
+  std::string filename ;
+
+  void getimgName(const std::string sView_filename){
+      filename = sView_filename;
+  }
   /**
   @brief Use a preset to control the number of detected regions
   @param preset The preset configuration
