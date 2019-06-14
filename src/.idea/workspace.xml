@@ -1,0 +1,1275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="openMVG" targetName="domset" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2MVE2" />
+      <config projectName="openMVG" targetName="openMVG_easyexif" />
+      <config projectName="openMVG" targetName="openMVG_main_ColHarmonize" />
+      <config projectName="openMVG" targetName="doc_doxygen" />
+      <config projectName="openMVG" targetName="openMVG_fast" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2MESHLAB" />
+      <config projectName="openMVG" targetName="openMVG_sample_describe_and_match_GUI" />
+      <config projectName="openMVG" targetName="openMVG_multiview" />
+      <config projectName="openMVG" targetName="openMVG_sample_cameras_undistoBrown" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeFeatures_OpenCV" />
+      <config projectName="openMVG" targetName="openMVG_main_GlobalSfM" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeSfM_DataColor" />
+      <config projectName="openMVG" targetName="vlsift" />
+      <config projectName="openMVG" targetName="openMVG_main_ChangeLocalOrigin" />
+      <config projectName="openMVG" targetName="openMVG_features" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustEssential_ba" />
+      <config projectName="openMVG" targetName="openMVG_numeric" />
+      <config projectName="openMVG" targetName="openMVG_matching_image_collection" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustFundamental_guided" />
+      <config projectName="openMVG" targetName="openMVG_robust_estimation" />
+      <config projectName="openMVG" targetName="openMVG_kvld" />
+      <config projectName="openMVG" targetName="openMVG_main_PointsFiltering" />
+      <config projectName="openMVG" targetName="openMVG_main_MatchesToTracks" />
+      <config projectName="openMVG" targetName="lib_OsiClpSolver" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2MVSTEXTURING" />
+      <config projectName="openMVG" targetName="openMVG_exif" />
+      <config projectName="openMVG" targetName="openMVG_linearProgramming" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2openMVS" />
+      <config projectName="openMVG" targetName="openMVG_main_exportMatches" />
+      <config projectName="openMVG" targetName="openMVG_lInftyComputerVision" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustFundamental" />
+      <config projectName="openMVG" targetName="openMVG_sample_pano_converter" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2PMVS" />
+      <config projectName="openMVG" targetName="lib_Osi" />
+      <config projectName="openMVG" targetName="openMVG_sample_image_matching" />
+      <config projectName="openMVG" targetName="openMVG_sample_image_undistort" />
+      <config projectName="openMVG" targetName="openMVG_main_SfMInit_ImageListing" />
+      <config projectName="openMVG" targetName="openMVG_sample_image_undistort_autogen" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2WebGL" />
+      <config projectName="openMVG" targetName="openMVG_sample_features_siftPutative" />
+      <config projectName="openMVG" targetName="openMVG_main_ExportCameraFrustums" />
+      <config projectName="openMVG" targetName="openMVG_main_exif_Parsing" />
+      <config projectName="openMVG" targetName="openMVG_matching" />
+      <config projectName="openMVG" targetName="openMVG_main_AlternativeVO" />
+      <config projectName="openMVG" targetName="openMVG_lemon" />
+      <config projectName="openMVG" targetName="uninstall" />
+      <config projectName="openMVG" targetName="openMVG_sample_features_kvld" />
+      <config projectName="openMVG" targetName="openMVG_main_IncrementalSfM2" />
+      <config projectName="openMVG" targetName="openMVG_main_geodesy_registration_to_gps_position" />
+      <config projectName="openMVG" targetName="openMVG_main_exportTracks" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeMatches" />
+      <config projectName="openMVG" targetName="openMVG_main_SfMInit_ImageListingFromKnownPoses" />
+      <config projectName="openMVG" targetName="openMVG_main_ConvertSfM_DataFormat" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeFeatures_Deep" />
+      <config projectName="openMVG" targetName="openMVG_sample_robust_estimation_Homography" />
+      <config projectName="openMVG" targetName="openMVG_sample_describe_and_match_GUI_autogen" />
+      <config projectName="openMVG" targetName="openMVG_main_FrustumFiltering" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustEssential_spherical" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeFeatures" />
+      <config projectName="openMVG" targetName="openMVG_main_AlternativeVO_autogen" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2Colmap" />
+      <config projectName="openMVG" targetName="openMVG_main_exportKeypoints" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustHomography" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2Agisoft" />
+      <config projectName="openMVG" targetName="lib_clp" />
+      <config projectName="openMVG" targetName="doc" />
+      <config projectName="openMVG" targetName="openMVG_main_ConvertList" />
+      <config projectName="openMVG" targetName="openMVG_stlplus" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeClusters" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2NVM" />
+      <config projectName="openMVG" targetName="openMVG_sfm" />
+      <config projectName="openMVG" targetName="openMVG_main_ListMatchingPairs" />
+      <config projectName="openMVG" targetName="openMVG_main_SfM_Localization" />
+      <config projectName="openMVG" targetName="check" />
+      <config projectName="openMVG" targetName="openMVG_sample_main_features_repeatability_dataset" />
+      <config projectName="openMVG" targetName="openMVG_geometry" />
+      <config projectName="openMVG" targetName="openMVG_system" />
+      <config projectName="openMVG" targetName="openMVG_sample_geodesy_show_exif_gps_position" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustEssential" />
+      <config projectName="openMVG" targetName="openMVG_main_ComputeStructureFromKnownPoses" />
+      <config projectName="openMVG" targetName="openMVG_main_evalQuality" />
+      <config projectName="openMVG" targetName="openMVG_main_IncrementalSfM" />
+      <config projectName="openMVG" targetName="lib_CoinUtils" />
+      <config projectName="openMVG" targetName="openMVG_sample_features_affine" />
+      <config projectName="openMVG" targetName="main_svgSample" />
+      <config projectName="openMVG" targetName="openMVG_main_SplitMatchFileIntoMatchFiles" />
+      <config projectName="openMVG" targetName="openMVG_main_openMVG2CMPMVS" />
+      <config projectName="openMVG" targetName="openMVG_sample_image_matching_gmsfilter" />
+      <config projectName="openMVG" targetName="openMVG_sample_multiview_robustHomography_guided" />
+      <config projectName="openMVG" targetName="openMVG_multiview_test_data" />
+      <config projectName="openMVG" targetName="openMVG_main_ExportUndistortedImages" />
+      <config projectName="openMVG" targetName="openMVG_image" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="25d3488d-d2bb-4701-baef-d0c554495e9a" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/cmake-build-debug/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software/SfM/main_ComputeFeatures_OpenCV.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3120">
+              <caret line="208" column="4" selection-start-line="208" selection-start-column="4" selection-end-line="208" selection-end-column="44" />
+              <folding>
+                <element signature="e#4465#4493#0" expanded="true" />
+                <element signature="e#11741#11794#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/software/SfM/main_ComputeFeatures_DeepFeature.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="491">
+              <caret line="141" column="5" selection-start-line="58" selection-end-line="149" />
+              <folding>
+                <element signature="e#769#798#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openMVG/features/feature.cpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="705">
+              <caret line="47" column="14" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="14" />
+              <folding>
+                <element signature="e#325#364#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/software/SfM/CMakeLists.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3765">
+              <caret line="251" column="85" selection-start-line="251" selection-start-column="85" selection-end-line="251" selection-end-column="85" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openMVG/features/image_describer.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" selection-start-line="35" selection-end-line="39" selection-end-column="3" />
+              <folding>
+                <element signature="e#410#427#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openMVG/image/image_container.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="405">
+              <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+              <folding>
+                <element signature="e#601#613#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openMVG/features/regions_factory.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="525">
+              <caret line="35" column="75" selection-start-line="35" selection-end-line="36" />
+              <folding>
+                <element signature="e#410#456#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openMVG/features/regions_factory_io.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+              <folding>
+                <element signature="e#516#549#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/openMVG/features/scalar_regions.hpp">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+              <folding>
+                <element signature="e#408#427#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>AKAZE_Image_describer</find>
+      <find>descr</find>
+      <find>ComputeMSURFDescriptor</find>
+      <find>surf</find>
+      <find>desc</find>
+      <find>features_files_headers</find>
+      <find>opencv</find>
+      <find>sImage_Describer_Method</find>
+      <find>sView_filename</find>
+      <find>image_describer</find>
+      <find>sImage_describer</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/openMVG/features/LF-Net/lf_net.cpp" />
+        <option value="$PROJECT_DIR$/openMVG/features/LF-Net/lfnet.h" />
+        <option value="$PROJECT_DIR$/openMVG/features/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/openMVG/features/LF-Net/lfnet.hpp" />
+        <option value="$PROJECT_DIR$/openMVG/features/image_describer_deep.hpp" />
+        <option value="$PROJECT_DIR$/openMVG/features/regions_factory.hpp" />
+        <option value="$PROJECT_DIR$/software/SfM/CMakeLists.txt" />
+        <option value="$PROJECT_DIR$/software/SfM/main_ComputeFeatures_OpenCV.cpp" />
+        <option value="$PROJECT_DIR$/openMVG/features/image_describer.hpp" />
+        <option value="$PROJECT_DIR$/openMVG/features/regions_factory_io.hpp" />
+        <option value="$PROJECT_DIR$/software/SfM/main_ComputeFeatures_DeepFeature.cpp" />
+      </list>
+    </option>
+  </component>
+  <component name="OCFindUsagesOptions" text="true" ivars="false" properties="true" derivedClasses="false" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="87" />
+    <option name="y" value="177" />
+    <option name="width" value="1855" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="openMVG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openMVG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="openMVG" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openMVG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="openMVG" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openMVG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="openMVG" type="462c0819:PsiDirectoryNode" />
+              <item name="image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openMVG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="software" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="openMVG" type="b2602c69:ProjectViewProjectNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="software" type="462c0819:PsiDirectoryNode" />
+              <item name="SfM" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../openMVG-custom" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.sourceCode.C/C++" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.openMVG_sample_cameras_undistoBrown">
+    <configuration name="check" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="check" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doc" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="doc" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="doc_doxygen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="doc_doxygen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="domset" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="domset" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib_CoinUtils" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="lib_CoinUtils" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib_Osi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="lib_Osi" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib_OsiClpSolver" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="lib_OsiClpSolver" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="lib_clp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="lib_clp" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main_svgSample" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="main_svgSample" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="main_svgSample">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_easyexif" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_easyexif" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_exif" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_exif" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_fast" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_fast" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_features" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_features" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_geometry" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_geometry" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_image" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_image" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_kvld" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_kvld" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_lInftyComputerVision" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_lInftyComputerVision" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_lemon" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_lemon" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_linearProgramming" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_linearProgramming" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_AlternativeVO" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_AlternativeVO" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_AlternativeVO">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_AlternativeVO_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_AlternativeVO_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ChangeLocalOrigin" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ChangeLocalOrigin" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ChangeLocalOrigin">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ColHarmonize" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ColHarmonize" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ColHarmonize">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeClusters" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeClusters" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeClusters">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeFeatures" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeFeatures" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeFeatures">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeFeatures_Deep" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeFeatures_Deep" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeFeatures_Deep">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeFeatures_OpenCV" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeFeatures_OpenCV" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeFeatures_OpenCV">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeMatches" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeMatches" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeMatches">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeSfM_DataColor" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeSfM_DataColor" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeSfM_DataColor">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ComputeStructureFromKnownPoses" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ComputeStructureFromKnownPoses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ComputeStructureFromKnownPoses">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ConvertList" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ConvertList" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ConvertList">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ConvertSfM_DataFormat" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ConvertSfM_DataFormat" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ConvertSfM_DataFormat">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ExportCameraFrustums" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ExportCameraFrustums" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ExportCameraFrustums">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ExportUndistortedImages" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ExportUndistortedImages" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ExportUndistortedImages">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_FrustumFiltering" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_FrustumFiltering" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_FrustumFiltering">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_GlobalSfM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_GlobalSfM" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_GlobalSfM">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_IncrementalSfM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_IncrementalSfM" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_IncrementalSfM">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_IncrementalSfM2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_IncrementalSfM2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_IncrementalSfM2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_ListMatchingPairs" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_ListMatchingPairs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_ListMatchingPairs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_MatchesToTracks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_MatchesToTracks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_MatchesToTracks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_PointsFiltering" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_PointsFiltering" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_PointsFiltering">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_SfMInit_ImageListing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_SfMInit_ImageListing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_SfMInit_ImageListing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_SfMInit_ImageListingFromKnownPoses" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_SfMInit_ImageListingFromKnownPoses" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_SfMInit_ImageListingFromKnownPoses">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_SfM_Localization" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_SfM_Localization" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_SfM_Localization">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_SplitMatchFileIntoMatchFiles" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_SplitMatchFileIntoMatchFiles" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_SplitMatchFileIntoMatchFiles">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_evalQuality" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_evalQuality" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_evalQuality">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_exif_Parsing" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_exif_Parsing" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_exif_Parsing">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_exportKeypoints" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_exportKeypoints" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_exportKeypoints">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_exportMatches" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_exportMatches" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_exportMatches">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_exportTracks" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_exportTracks" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_exportTracks">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_geodesy_registration_to_gps_position" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_geodesy_registration_to_gps_position" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_geodesy_registration_to_gps_position">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2Agisoft" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2Agisoft" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2Agisoft">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2CMPMVS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2CMPMVS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2CMPMVS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2Colmap" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2Colmap" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2Colmap">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2MESHLAB" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2MESHLAB" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2MESHLAB">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2MVE2" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2MVE2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2MVE2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2MVSTEXTURING" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2MVSTEXTURING" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2MVSTEXTURING">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2NVM" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2NVM" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2NVM">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2PMVS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2PMVS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2PMVS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2WebGL" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2WebGL" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2WebGL">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_main_openMVG2openMVS" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_main_openMVG2openMVS" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_main_openMVG2openMVS">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_matching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_matching" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_matching_image_collection" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_matching_image_collection" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_multiview" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_multiview" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_multiview_test_data" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_multiview_test_data" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_numeric" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_numeric" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_robust_estimation" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_robust_estimation" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_cameras_undistoBrown" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_cameras_undistoBrown" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_cameras_undistoBrown">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_describe_and_match_GUI" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_describe_and_match_GUI" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_describe_and_match_GUI">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_describe_and_match_GUI_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_describe_and_match_GUI_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_features_affine" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_features_affine" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_features_affine">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_features_kvld" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_features_kvld" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_features_kvld">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_features_siftPutative" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_features_siftPutative" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_features_siftPutative">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_geodesy_show_exif_gps_position" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_geodesy_show_exif_gps_position" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_geodesy_show_exif_gps_position">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_image_matching" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_image_matching" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_image_matching">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_image_matching_gmsfilter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_image_matching_gmsfilter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_image_matching_gmsfilter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_image_undistort" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_image_undistort" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_image_undistort">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_image_undistort_autogen" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_image_undistort_autogen" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_main_features_repeatability_dataset" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_main_features_repeatability_dataset" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_main_features_repeatability_dataset">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustEssential" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustEssential" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustEssential">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustEssential_ba" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustEssential_ba" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustEssential_ba">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustEssential_spherical" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustEssential_spherical" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustEssential_spherical">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustFundamental" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustFundamental" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustFundamental">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustFundamental_guided" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustFundamental_guided" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustFundamental_guided">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustHomography" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustHomography" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustHomography">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_multiview_robustHomography_guided" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_multiview_robustHomography_guided" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_multiview_robustHomography_guided">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_pano_converter" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_pano_converter" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_pano_converter">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sample_robust_estimation_Homography" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sample_robust_estimation_Homography" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="openMVG" RUN_TARGET_NAME="openMVG_sample_robust_estimation_Homography">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_sfm" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_sfm" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_stlplus" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_stlplus" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="openMVG_system" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="openMVG_system" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="uninstall" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="uninstall" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="vlsift" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="openMVG" TARGET_NAME="vlsift" CONFIG_NAME="Debug">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.doc" />
+      <item itemvalue="Application.doc_doxygen" />
+      <item itemvalue="Application.uninstall" />
+      <item itemvalue="Application.lib_clp" />
+      <item itemvalue="Application.lib_OsiClpSolver" />
+      <item itemvalue="Application.lib_CoinUtils" />
+      <item itemvalue="Application.lib_Osi" />
+      <item itemvalue="Application.vlsift" />
+      <item itemvalue="Application.openMVG_exif" />
+      <item itemvalue="Application.openMVG_features" />
+      <item itemvalue="Application.openMVG_geometry" />
+      <item itemvalue="Application.openMVG_image" />
+      <item itemvalue="Application.openMVG_linearProgramming" />
+      <item itemvalue="Application.openMVG_lInftyComputerVision" />
+      <item itemvalue="Application.openMVG_matching" />
+      <item itemvalue="Application.openMVG_kvld" />
+      <item itemvalue="Application.openMVG_matching_image_collection" />
+      <item itemvalue="Application.openMVG_multiview" />
+      <item itemvalue="Application.openMVG_multiview_test_data" />
+      <item itemvalue="Application.openMVG_numeric" />
+      <item itemvalue="Application.openMVG_robust_estimation" />
+      <item itemvalue="Application.openMVG_sfm" />
+      <item itemvalue="Application.openMVG_system" />
+      <item itemvalue="Application.openMVG_sample_cameras_undistoBrown" />
+      <item itemvalue="Application.openMVG_sample_describe_and_match_GUI" />
+      <item itemvalue="Application.openMVG_sample_describe_and_match_GUI_autogen" />
+      <item itemvalue="Application.openMVG_main_exif_Parsing" />
+      <item itemvalue="Application.openMVG_sample_features_affine" />
+      <item itemvalue="Application.openMVG_sample_image_matching" />
+      <item itemvalue="Application.openMVG_sample_image_matching_gmsfilter" />
+      <item itemvalue="Application.openMVG_sample_features_kvld" />
+      <item itemvalue="Application.openMVG_sample_main_features_repeatability_dataset" />
+      <item itemvalue="Application.openMVG_sample_features_siftPutative" />
+      <item itemvalue="Application.openMVG_sample_geodesy_show_exif_gps_position" />
+      <item itemvalue="Application.openMVG_sample_pano_converter" />
+      <item itemvalue="Application.openMVG_sample_image_undistort" />
+      <item itemvalue="Application.openMVG_sample_image_undistort_autogen" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustEssential" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustEssential_ba" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustEssential_spherical" />
+      <item itemvalue="Application.openMVG_sample_robust_estimation_Homography" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustFundamental" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustFundamental_guided" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustHomography" />
+      <item itemvalue="Application.openMVG_sample_multiview_robustHomography_guided" />
+      <item itemvalue="Application.openMVG_main_ColHarmonize" />
+      <item itemvalue="Application.openMVG_main_geodesy_registration_to_gps_position" />
+      <item itemvalue="Application.openMVG_main_SfM_Localization" />
+      <item itemvalue="Application.openMVG_main_ChangeLocalOrigin" />
+      <item itemvalue="Application.openMVG_main_ComputeFeatures" />
+      <item itemvalue="Application.openMVG_main_ComputeFeatures_Deep" />
+      <item itemvalue="Application.openMVG_main_ComputeFeatures_OpenCV" />
+      <item itemvalue="Application.openMVG_main_ComputeMatches" />
+      <item itemvalue="Application.openMVG_main_ComputeSfM_DataColor" />
+      <item itemvalue="Application.openMVG_main_ComputeStructureFromKnownPoses" />
+      <item itemvalue="Application.openMVG_main_ConvertList" />
+      <item itemvalue="Application.openMVG_main_ConvertSfM_DataFormat" />
+      <item itemvalue="Application.openMVG_main_evalQuality" />
+      <item itemvalue="Application.openMVG_main_FrustumFiltering" />
+      <item itemvalue="Application.openMVG_main_GlobalSfM" />
+      <item itemvalue="Application.openMVG_main_IncrementalSfM" />
+      <item itemvalue="Application.openMVG_main_IncrementalSfM2" />
+      <item itemvalue="Application.openMVG_main_ListMatchingPairs" />
+      <item itemvalue="Application.openMVG_main_MatchesToTracks" />
+      <item itemvalue="Application.openMVG_main_PointsFiltering" />
+      <item itemvalue="Application.openMVG_main_SfMInit_ImageListing" />
+      <item itemvalue="Application.openMVG_main_SplitMatchFileIntoMatchFiles" />
+      <item itemvalue="Application.openMVG_main_ComputeClusters" />
+      <item itemvalue="Application.domset" />
+      <item itemvalue="Application.openMVG_main_ExportCameraFrustums" />
+      <item itemvalue="Application.openMVG_main_exportKeypoints" />
+      <item itemvalue="Application.openMVG_main_exportMatches" />
+      <item itemvalue="Application.openMVG_main_exportTracks" />
+      <item itemvalue="Application.openMVG_main_ExportUndistortedImages" />
+      <item itemvalue="Application.openMVG_main_openMVG2Agisoft" />
+      <item itemvalue="Application.openMVG_main_openMVG2CMPMVS" />
+      <item itemvalue="Application.openMVG_main_openMVG2Colmap" />
+      <item itemvalue="Application.openMVG_main_openMVG2MESHLAB" />
+      <item itemvalue="Application.openMVG_main_openMVG2MVE2" />
+      <item itemvalue="Application.openMVG_main_openMVG2MVSTEXTURING" />
+      <item itemvalue="Application.openMVG_main_openMVG2NVM" />
+      <item itemvalue="Application.openMVG_main_openMVG2openMVS" />
+      <item itemvalue="Application.openMVG_main_openMVG2PMVS" />
+      <item itemvalue="Application.openMVG_main_SfMInit_ImageListingFromKnownPoses" />
+      <item itemvalue="Application.openMVG_main_openMVG2WebGL" />
+      <item itemvalue="Application.openMVG_main_AlternativeVO" />
+      <item itemvalue="Application.openMVG_main_AlternativeVO_autogen" />
+      <item itemvalue="Application.openMVG_easyexif" />
+      <item itemvalue="Application.openMVG_fast" />
+      <item itemvalue="Application.check" />
+      <item itemvalue="Application.openMVG_lemon" />
+      <item itemvalue="Application.openMVG_stlplus" />
+      <item itemvalue="Application.main_svgSample" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="25d3488d-d2bb-4701-baef-d0c554495e9a" name="Default Changelist" comment="" />
+      <created>1558249827795</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558249827795</updated>
+      <workItem from="1558249835272" duration="1390000" />
+      <workItem from="1558772849606" duration="1050000" />
+      <workItem from="1558945748462" duration="597000" />
+      <workItem from="1559554447480" duration="46000" />
+      <workItem from="1559560280223" duration="10820000" />
+      <workItem from="1559631011308" duration="7962000" />
+      <workItem from="1559820133988" duration="2047000" />
+      <workItem from="1559871724068" duration="10365000" />
+      <workItem from="1559886582416" duration="6644000" />
+      <workItem from="1559894425703" duration="490000" />
+      <workItem from="1559895427904" duration="2084000" />
+      <workItem from="1559957386653" duration="379000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="43874000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="64" y="-11" width="1857" height="1092" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19922523" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Database Changes" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="CMake" order="11" visible="true" weight="0.24058577" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/software/Geodesy/registration_to_exif_gps_position.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1935">
+          <caret line="129" column="34" selection-start-line="129" selection-start-column="34" selection-end-line="129" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/geometry/pose3.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nonFree/sift/vl/sift.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="14" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nonFree/sift/SIFT_describer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="156" column="38" selection-start-line="156" selection-start-column="33" selection-end-line="156" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/liop/liop_descriptor.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="556">
+          <caret line="47" column="19" selection-start-line="47" selection-start-column="19" selection-end-line="47" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/liop/liop_descriptor.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="470">
+          <caret line="333" column="3" lean-forward="true" selection-start-line="333" selection-start-column="3" selection-end-line="333" selection-end-column="3" />
+          <folding>
+            <element signature="e#692#744#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/dipole/dipole_descriptor.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2100">
+          <caret line="34" column="2" lean-forward="true" selection-start-line="34" selection-start-column="2" selection-end-line="34" selection-end-column="2" />
+          <folding>
+            <element signature="e#986#1001#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/descriptor.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/image_describer_akaze.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="780">
+          <caret line="65" column="20" selection-start-line="65" selection-start-column="20" selection-end-line="65" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/msurf_descriptor.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="67" column="36" selection-start-line="67" selection-start-column="36" selection-end-line="67" selection-end-column="36" />
+          <folding>
+            <element signature="e#446#488#0" expanded="true" />
+            <element signature="e#1519#1552#0" expanded="true" />
+            <element signature="e#4540#4557#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/AKAZE.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-6792" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/image_describer_akaze_io.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="34" column="64" selection-start-line="34" selection-start-column="64" selection-end-line="34" selection-end-column="64" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/mldb_descriptor.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-282" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/sift/SIFT_Anatomy_Image_Describer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1920">
+          <caret line="66" column="6" selection-start-line="66" selection-start-column="6" selection-end-line="66" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testing/testing.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1125">
+          <caret line="77" column="8" selection-start-line="77" selection-start-column="8" selection-end-line="77" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/third_party/CppUnitLite/Test.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="735">
+          <caret line="50" column="8" selection-start-line="50" selection-start-column="8" selection-end-line="50" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/image_describer_akaze.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" selection-end-line="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/AKAZE.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="159" />
+          <folding>
+            <element signature="e#422#448#0" expanded="true" />
+            <element signature="e#1172#1189#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/AKAZE_io.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="e#412#455#0" expanded="true" />
+            <element signature="e#495#510#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/akaze/akaze_test.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="67" selection-start-line="67" selection-end-line="67" />
+          <folding>
+            <element signature="e#319#378#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/LF-Net/lfnet.cpp" />
+    <entry file="file://$PROJECT_DIR$/openMVG/features/LF-Net/lfnet_test.cpp" />
+    <entry file="file://$PROJECT_DIR$/openMVG/features/LF-Net/lfnet_descriptor.cpp" />
+    <entry file="file://$PROJECT_DIR$/openMVG/features/sift/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/sift/SIFT_Anatomy_Image_Describer_io.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+          <folding>
+            <element signature="e#452#517#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/features_test.cpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/LF-Net/lfnet.hpp" />
+    <entry file="file://$PROJECT_DIR$/software/SfM/main_ComputeFeatures.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4080">
+          <caret line="272" column="75" selection-start-line="272" selection-start-column="75" selection-end-line="272" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/feature.hpp">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="41" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///usr/include/c++/5/bits/basic_string.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="232">
+          <caret line="378" column="6" selection-start-line="378" selection-start-column="6" selection-end-line="378" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../../DifferentFeatureVO/Data/matches/1305031910.765238.feat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/image_describer_deep.hpp" />
+    <entry file="file://$PROJECT_DIR$/build/Linux-x86_64-Release/matches2/03.feat" />
+    <entry file="file://$PROJECT_DIR$/openMVG/features/regions.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="50" column="46" selection-start-line="50" selection-start-column="46" selection-end-line="50" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Data/samples_txt/01.jpg.txt" />
+    <entry file="file://$PROJECT_DIR$/Data/samples_txt/02.jpg.txt" />
+    <entry file="file://$PROJECT_DIR$/build/Linux-x86_64-Release/matches/01.feat" />
+    <entry file="file://$PROJECT_DIR$/software/SfM/main_ComputeFeatures_OpenCV.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3120">
+          <caret line="208" column="4" selection-start-line="208" selection-start-column="4" selection-end-line="208" selection-end-column="44" />
+          <folding>
+            <element signature="e#4465#4493#0" expanded="true" />
+            <element signature="e#11741#11794#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/feature.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="47" column="14" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="14" />
+          <folding>
+            <element signature="e#325#364#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/SfM/CMakeLists.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3765">
+          <caret line="251" column="85" selection-start-line="251" selection-start-column="85" selection-end-line="251" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/scalar_regions.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="88" column="18" selection-start-line="88" selection-start-column="18" selection-end-line="88" selection-end-column="18" />
+          <folding>
+            <element signature="e#408#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/image_describer.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" selection-start-line="35" selection-end-line="39" selection-end-column="3" />
+          <folding>
+            <element signature="e#410#427#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/image/image_container.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding>
+            <element signature="e#601#613#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/regions_factory_io.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="31" column="6" selection-start-line="31" selection-start-column="6" selection-end-line="31" selection-end-column="6" />
+          <folding>
+            <element signature="e#516#549#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/openMVG/features/regions_factory.hpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="525">
+          <caret line="35" column="75" selection-start-line="35" selection-end-line="36" />
+          <folding>
+            <element signature="e#410#456#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/software/SfM/main_ComputeFeatures_DeepFeature.cpp">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="141" column="5" selection-start-line="58" selection-end-line="149" />
+          <folding>
+            <element signature="e#769#798#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
