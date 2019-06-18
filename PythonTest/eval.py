@@ -100,11 +100,14 @@ def align_reconstruction_naive_similarity(X, Xp):
 	return s, A, b
 
 def evalue(datapath):
+	totalDV=0
+	totalDH=0
 	for si in range(8):
 		renderpath = os.path.join(datapath,'sr'+str(si+1),'sfm_data.json')
 		with open(renderpath, "r") as f:
 			data = {}
 			cc = json.loads(f.read())
+			allNum = len(cc['views'])
 			for i in cc['extrinsics']:
 				filename=cc['views'][i['key']]['value']['ptr_wrapper']['data']['filename']
 				data[filename] = i['value']
@@ -117,6 +120,12 @@ def evalue(datapath):
 		for i in csv_data:
 			if (i[0]+'_pano.jpg') in data:
 				data_train[i[0]+'.jpg'] = data[i[0]+'_pano.jpg']
+
+		tainNum = len(data_train)
+		totaltrain = len(csv_data)
+		
+		testNum = len(data) - tainNum
+		totaltest = allNum - totaltrain
 
 		aa=[]
 		bb=[]
@@ -140,15 +149,27 @@ def evalue(datapath):
 		z_meanerror = np.sum((new_b[:,2] - aa[:,2]))/num
 		z_maxerror = np.max((new_b[:,0] - aa[:,0]))
 		print("scene"+str(si+1))
-		print('x_meanerror: '+str(x_meanerror))
-		print('x_maxerror: '+str(x_maxerror))
-		print('y_meanerror: '+str(y_meanerror))
-		print('y_maxerror: '+str(y_maxerror))
-		print('z_meanerror: '+str(z_meanerror))
-		print('z_maxerror: '+str(z_maxerror))
+		print("tainNum: " + str(tainNum))
+		print("totaltrain: " + str(totaltrain))
+		print("testNum: " + str(testNum))
+		print("totaltest: " + str(totaltest))
+
+		
+		DRMS = np.sqrt(np.sum(np.square(new_b[:,0] - aa[:,0])+np.square(new_b[:,1] - aa[:,1]))/num)
+		DHerr = 20*np.log10((100/(DRMS+0.001)))
+		totalDH += DHerr
+		print("DHerr:"+str(DHerr))
+		EV=np.sqrt(np.sum(np.abs(new_b[:,2] - aa[:,2]))/num)
+		DVerr = 25*np.log10(10/(EV+0.001))		
+		totalDV += DVerr
+		print("DVerr:"+str(DVerr))
+
+	print("totalDH:"+str(totalDH/8))
+	print("totalDV:"+str(totalDV/8))
+
 
 if __name__ == "__main__":
-	evalue('/home/wang/new/workspace/21SmartCity/')
+	evalue('/home/wang/new/workspace/21SmartCity')
 
 
 
