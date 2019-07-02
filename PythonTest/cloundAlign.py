@@ -105,35 +105,6 @@ def align_reconstruction_naive_similarity(X, Xp):
     A /= s
     return s, A, b
 
-def show1(aa,bb):
-    ax = plt.subplot(111, projection='3d')  # 创建一个三维的绘图工程
-    for i in range(len(aa)):
-        # plot point
-        ax.scatter(aa[i][0],aa[i][1],aa[i][2], c='y')
-        ax.scatter(bb[i][0],bb[i][1],bb[i][2], c='r')
-        # plot line
-        x=np.array([aa[i][0],bb[i][0]])
-        y=np.array([aa[i][1],bb[i][1]])
-        z=np.array([aa[i][2],bb[i][2]])
-        ax.plot(x,y,z,c='b')
-        # # plot text
-        # label = '%s' % (name[i])
-        # ax.text(bb[i][0], bb[i][1], bb[i][2], label, color='red')
-    ax.set_zlabel('Z')  # 坐标轴
-    ax.set_ylabel('Y')
-    ax.set_xlabel('X')
-    plt.show()
-
-def show(aa):
-    ax = plt.subplot(111, projection='3d')  # 创建一个三维的绘图工程
-    for i in range(len(aa)):
-        # plot point
-        ax.scatter(aa[i][0],aa[i][1],aa[i][2], c='y')
-    ax.set_zlabel('Z')  # 坐标轴
-    ax.set_ylabel('Y')
-    ax.set_xlabel('X')
-    plt.show()
-
 def qvec2rotmat(qvec):
     return np.array([
         [1 - 2 * qvec[2]**2 - 2 * qvec[3]**2,
@@ -156,6 +127,7 @@ def error_test(world_coord, new_b, scene):
     DHerr = 20 * np.log10((100 / (DRMS + 0.001)))
     EV = np.sqrt(np.sum(np.abs(new_b[:, 2] - world_coord[:, 2])) / num)
     DVerr = 25 * np.log10(10 / (EV + 0.001))
+
 
     with open(score_path,'a') as f:
         f.write('scene'+str(scene)+' score:\n')
@@ -202,6 +174,20 @@ def getGT(gt_path):
             gt_dict[i[0]] = [float(i[1]), float(i[2]), float(i[3])]
     return gt_dict
 
+
+def show2(aa,bb):
+    ax = plt.subplot(111, projection='3d')  # 创建一个三维的绘图工程
+    for i in range(len(bb)):
+        # plot point
+        ax.scatter(aa[i][0],aa[i][1],aa[i][2], c='y')
+        ax.scatter(bb[i][0],bb[i][1],bb[i][2], c='r')
+
+    ax.set_zlabel('Z')  # 坐标轴
+    ax.set_ylabel('Y')
+    ax.set_xlabel('X')
+    plt.show()
+
+
 def affine_res(M, testR):
     resdim = testR[0].shape[0]
     testr = []
@@ -239,7 +225,11 @@ def main(gt_path, save_path, data_path, scene, method):
         T = np.array([[float(c[5]),float(c[6]),float(c[7])]]).T
         x,y,z = -r.T.dot(T)
 
-        name = c[-1][5:-9]
+        name = c[-1][:-6]
+        # name = c[-1][:-11]
+        print(name)
+        import pdb
+        # pdb.set_trace()
         #print(name)
         if name in list(gt_dict.keys()):
             results.append([x[0],y[0],z[0]])
@@ -253,11 +243,9 @@ def main(gt_path, save_path, data_path, scene, method):
             print('gt {} not in data'.format(i))
     #print(gt_dict.keys())
     #print(trainNAME)
-
     clound_coord = np.array(results)
     world_coord = np.array(world_coord)
     testIMG = np.array(testIMG)
-
 # ========================= mean the results to test==============================
     if method==2 or method==3:
         traindic = np2dic(trainNAME, clound_coord)
@@ -272,9 +260,7 @@ def main(gt_path, save_path, data_path, scene, method):
         trainR=trainR.reshape((-1,3))
         gtR=gtR.reshape((-1,3))
 # =================================================================================
-
     #show(results)
-
 # ================== 3 way(all / mean / affine trans) to test======================
     if method==1:
         s, A, b = align_reconstruction_naive_similarity(clound_coord, world_coord)
@@ -291,6 +277,8 @@ def main(gt_path, save_path, data_path, scene, method):
         train2gt_v2 = affine_res(M, trainR)
         assert train2gt.all() ==train2gt_v2.all()
         error_test(gtR, train2gt, scene)
+        # pdb.set_trace()
+        # return train2gt, trainNAME
 
     elif method==4:
         M, train2gt = test(clound_coord, world_coord)
@@ -300,15 +288,6 @@ def main(gt_path, save_path, data_path, scene, method):
 
     else:
         raise KeyError('error methods')
-
-    # if method==1 or method==4:
-    #     show1(world_coord,clound2world)
-    #
-    # elif method==2 or method==3:
-    #     show1(gtR,train2gt)
-
-# =================================================================================
-
 
     testdic = np2dic(testNAME, testIMG)
 
@@ -324,25 +303,41 @@ def main(gt_path, save_path, data_path, scene, method):
         # ==================  default or affine =====================
         if method==1 or method==2:
             testr = s*A.dot(testR.T).T+b
-
         if method==3 or method==4:
             testr = affine_res(M, testR)
-
+            # pdb.set_trace()
         # ===========================================================
-
         for i,dn in enumerate(dicname):
             f.write(dn+',%.4f'%testr[i][0]+',%.4f'%testr[i][1]+',%.4f'%testr[i][2]+'\n')
 
 
 global score_path
-score_path = '/home/wang/workspace/colmapresult/score.txt'
+score_path = '/home/wang/workspace/SubModel5/score.txt'
 if __name__=='__main__':
     import os
+    import pdb
+
     if os.path.exists(score_path):
         os.system('rm '+score_path)
-
-    for s in [1,2,3,4,5,6,7,8]:
-        save_path = '/home/wang/workspace/colmapresult/scene'+str(s)+'.txt'
-        gt_path = '/home/wang/workspace/FishEyeSFM-master/PythonTest/scene'+str(s)+'.csv'
-        data_path = '/home/wang/桌面/Untitled Folder/afterRig'+str(s)+'/images.txt'
+    trains=[]
+    for s in [1,2,3]:
+        save_path = '/home/wang/workspace/SubModel5/scene'+str(s)+'.txt'
+        gt_path = '/home/wang/workspace/FishEyeSFM/PythonTest/scene'+str(5)+'.csv'
+        data_path = '/home/wang/workspace/SubModel5/r5_' +  str(s) +'/images.txt'
         main(gt_path, save_path ,data_path ,s, method=3)
+        # trains = trains + train.tolist()
+    # gt_path = '/home/wang/workspace/FishEyeSFM/PythonTest/scene' + str(6) + '.csv'
+    # gt_dict = getGT(gt_path)
+    # # with open(os.path.join('/home/wang/workspace/Finalresult/', 'scene6.txt'), 'r') as f:
+    # #     datas = [line.split(',') for line in f.read().splitlines()]
+    # # data={}
+    # # for i in datas:
+    # #     data[i[0]] = [float(i[1]), float(i[2]), float(i[3])]
+    # aa=[]
+    # bb=[]
+    # for i in gt_dict.keys():
+    #     bb.append(gt_dict[i])
+    # trains = np.array(trains)
+    # trains = trains.tolist()
+    # # pdb.set_trace()
+    # show2(trains,bb )
